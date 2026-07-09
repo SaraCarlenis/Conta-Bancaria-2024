@@ -75,6 +75,6 @@ public class Main {
 4. Execute a classe principal:
       java Main
 
-##👩‍💻 Autora##
+## 👩‍💻 Autora ##
 Sara Hurtado ✨
 
